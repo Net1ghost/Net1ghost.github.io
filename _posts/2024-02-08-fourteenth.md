@@ -3,7 +3,7 @@ layout: single
 title: "앱개발 아티클 스터디 8"
 categories: TIL
 ---
-**영리한 개발자와 현명한 개발자의 차이점**
+**주니어 개발자를 위한 엄청 쉬운 네트워크 이야기**
 
 URL: https://yozm.wishket.com/magazine/detail/1875/
 
